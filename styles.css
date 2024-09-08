@@ -1,0 +1,35 @@
+body {
+    color: black; 
+    background:rgb(0, 238, 255);
+    margin: 5px;
+    font-family: "Nanum Gothic Coding";
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: solid 2px white;
+}
+
+
+section {
+    background:rgb(255, 219, 205);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
